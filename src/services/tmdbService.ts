@@ -9,7 +9,7 @@ import { IPersonDetails } from 'common/types/person-details';
 
 export default class TMDb {
   private readonly API_BASE = 'https://api.themoviedb.org/3/';
-  private readonly TMDB_API_KEY = '52217232f795bbefbb1b7c951aae98ad';
+  private readonly TMDB_API_KEY = 'f110684cd7195ddfc24272da9a8defcf';
   private readonly API_LANGUAGE = 'en-US';
   public readonly API_IMAGE_PATH = 'https://image.tmdb.org/t/p/';
 
